@@ -504,7 +504,7 @@ body, html {
   width: 8.3334%; }
 
 body {
-  font: 400 17px/1.64 Nunito Sans, sans-serif;
+  font: 400 17px/1.64 NunitoSans, sans-serif;
   color: #8990a0;
   line-height: 1.7;
   /*background: url("../img/bg-down.jpg") no-repeat 0 100%;*/ }
@@ -517,29 +517,29 @@ body {
 
 /* Typography */
 h1 {
-  font: 900 100px/1 Nunito Sans, sans-serif;
+  font: 900 100px/1 NunitoSans, sans-serif;
   color: #d22425;
   text-transform: uppercase; }
 
 h2 {
-  font: 400 63px/1 Playfair Display, serif;
+  font: 400 63px/1 PlayfairDisplay, serif;
   color: #333333;
   letter-spacing: 0.045em; }
 
 h3 {
-  font: 400 36px/1 Playfair Display, serif;
+  font: 400 36px/1 PlayfairDisplay, serif;
   color: #333333;
   margin-top: 0; }
 
 h4 {
-  font: 700 16px/1.1 Nunito Sans, sans-serif;
+  font: 700 16px/1.1 NunitoSans, sans-serif;
   color: #393939;
   text-transform: uppercase;
   letter-spacing: 0.13em;
   margin-top: 0; }
 
 h5 {
-  font: 700 16px/1.2 Nunito Sans, sans-serif;
+  font: 700 16px/1.2 NunitoSans, sans-serif;
   color: #d22425;
   background: #fff;
   text-transform: uppercase;
@@ -554,7 +554,7 @@ button {
   transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in; }
 
 .ba-button--submit {
-  font: 700 17px/1.65 Nunito Sans, sans-serif;
+  font: 700 17px/1.65 NunitoSans, sans-serif;
   color: #fff;
   background-color: #d22425;
   text-transform: uppercase;
@@ -570,7 +570,7 @@ input[type="submit"],
 input[type="button"],
 .ba-button {
   display: inline-block;
-  font: 700 17px/1.65 Nunito Sans, sans-serif;
+  font: 700 17px/1.65 NunitoSans, sans-serif;
   color: #d22425;
   text-decoration: none;
   padding: 9px 32px;
@@ -578,7 +578,7 @@ input[type="button"],
 
 .ba-button--work {
   position: relative;
-  font: 700 14px/1 Nunito Sans, sans-serif;
+  font: 700 14px/1 NunitoSans, sans-serif;
   color: #d22425;
   text-transform: uppercase;
   top: 365px;
@@ -653,7 +653,7 @@ textarea {
   padding: 346px 0 410px 213px;
   margin-bottom: 155px; }
   .ba-intro__suptittle {
-    font: 400 40px/1 Nunito Sans, sans-serif;
+    font: 400 40px/1 NunitoSans, sans-serif;
     color: #dbdbdb; }
   .ba-intro__suptittle p {
     margin: 0; }
@@ -665,7 +665,7 @@ textarea {
     margin: 0 0 35px;
     letter-spacing: -0.1em; }
   .ba-intro__subtittle {
-    font: 300 70px/1 Nunito Sans, sans-serif;
+    font: 300 70px/1 NunitoSans, sans-serif;
     color: #dbdbdb;
     letter-spacing: -0.02em; }
   .ba-intro__subtittle span {
@@ -737,7 +737,7 @@ textarea {
     letter-spacing: 0.023em;
     margin-bottom: 20px; }
   .ba-innovate__preamble {
-    font: 400 14px/1.44 Nunito Sans, sans-serif;
+    font: 400 14px/1.44 NunitoSans, sans-serif;
     color: #717171;
     max-width: 425px;
     margin-left: 215px;
@@ -787,7 +787,7 @@ textarea {
     right: 38px; }
 
 .ba-col-6--left p:first-child::first-letter {
-  font: 700 100px/0.9 Nunito Sans, sans-serif;
+  font: 700 100px/0.9 NunitoSans, sans-serif;
   color: #333333;
   margin: 0;
   top: 60px; }
@@ -825,7 +825,7 @@ textarea {
   border: 1px solid  #ececec; }
 
 .ba-slider__description {
-  font: 400 14px/1.7 Nunito Sans, sans-serif;
+  font: 400 14px/1.7 NunitoSans, sans-serif;
   color: #8990a0; }
 
 .ba-slider__tittle {
@@ -904,7 +904,7 @@ textarea {
   border-top: 1px solid #F3F3F3; }
 
 .ba-copiright {
-  font: 600 16px/1.75 Nunito Sans, sans-serif;
+  font: 600 16px/1.75 NunitoSans, sans-serif;
   text-align: center;
   max-width: 270px;
   margin: 0 auto; }
